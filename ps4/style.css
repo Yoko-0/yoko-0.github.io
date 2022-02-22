@@ -93,7 +93,7 @@
 }
 
 /*Not needed, but I like keeping them here for posterity*/
-/*.ds4 .quadrant{
+.ds4 .quadrant{
 position: absolute;
 background: url(ps4-assets/player-n.svgz);
 height: 17px;
@@ -112,7 +112,7 @@ background-position: 0 -49px;
 }
 .ds4 .p3{
 background-position: 0 -70px;
-}*/
+}
 .ds4 .arrows {
     position: absolute;
     width: 352px;
